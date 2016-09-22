@@ -59,7 +59,7 @@ Bernd Lapp is founder of the decentralized consulting network, which gives exten
 
 ![Portrait of Stefano Bertolo](/images/portraits/stefano-bartolo.jpg)
 
-Stefano Bertolo is a civil servant advising the Foundation in a strictly personal capacity with the formal permission of his employer. He is an alumnus of Rutgers University, where he earned his Ph.D. in philosophy and cognitive psychology. He did post-doctoral work on human language learning at the Massachusetts Institute of Technology and worked as an artificial intelligence programmer at Cycorp. An enthusiast of prediction markets, Stefano earned the rank of Superforecaster in the Good Judgment Project. He lives in Luxembourg where has been working on public research and development funding for international projects in data management and analytics for the past ten years.
+Stefano Bertolo is a civil servant advising the Foundation in a strictly personal capacity with the formal permission of his employer. He is an alumnus of Rutgers University, where he earned his Ph.D. in philosophy and cognitive psychology. He did post-doctoral work on human language learning at the Massachusetts Institute of Technology and worked as an artificial intelligence programmer at Cycorp. An enthusiast of prediction markets, Stefano earned the rank of Superforecaster in the Good Judgment Project. He lives in Luxembourg where he has been working on public research and development funding for international projects in data management and analytics for the past ten years.
 
 [LinkedIn](https://www.linkedin.com/in/stefanobertolo), [Twitter](https://twitter.com/sclopit)
 
@@ -81,7 +81,7 @@ Yessin Schiegg is the CFO of Alpha Associates AG, an independent private equity,
   
 ![Portrait of William Mougayar](/images/portraits/william-mougayar.jpg)
    
-William Mougayar is an entrepreneur, angel investor, mentor to startups and an expert and analyst on startup marketing, blockchain technologies, decentralization and peer-to-peer models. He is on the Board of Directors of OB1, the OpenBazaar open source project that is pioneering peer-to-peer commerce, and a member of OMERS Ventures Board of Advisors and the founder of Startup Management. Besides having started and raised capital for three  companies (Engagio, Eqentia, and CYBERManagement), his career also included HP, Cognizant, CommerceNet Canada, authoring two books on Internet business, consulting for numerous Fortune 500 companies, and being a professional speaker. William is a graduate of the University of Washington and the University of Western Ontario.  
+William Mougayar is an entrepreneur, angel investor, mentor to startups and an expert and analyst on startup marketing, blockchain technologies, decentralization and peer-to-peer models. He is on the Board of Directors of OB1, the OpenBazaar open source project that is pioneering peer-to-peer commerce, and a member of OMERS Ventures Board of Advisors and the founder of Startup Management. Besides having started and raised capital for three companies (Engagio, Eqentia, and CYBERManagement), his career also included HP, Cognizant, CommerceNet Canada, authoring two books on Internet business, consulting for numerous Fortune 500 companies, and being a professional speaker. William is a graduate of the University of Washington and the University of Western Ontario.  
 [LinkedIn](https://www.linkedin.com/in/williammougayar)
 
 ----
